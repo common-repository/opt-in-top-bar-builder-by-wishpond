@@ -1,0 +1,21 @@
+#update-nag,
+.update-nag {
+  margin: 25px 20px;
+}
+
+.wishpond_iframe_container {
+  margin: 0 0 0 -20px;
+}
+
+.notice,
+div.error,
+div.updated {
+  margin: 5px 15px;
+}
+
+#wishpond_iframe {
+  width: 100%;
+  height: 800px;
+  background: url('../images/ajax-loader.png') 50% 50% no-repeat;
+  overflow-x: hidden;
+}
